@@ -12,14 +12,14 @@ I am developing full-stack apps for web and mobile.
 
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavdarfurkan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=cavdarfurkan&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&exclude_repo=SanalAileler,DijitallesenCocuklar)
 
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkancavdar)
 
 ---
-![](https://visitcount.itsvg.in/api?id=cavdarfurkan&icon=0&color=12&&pretty=true)
+[![](https://visitcount.itsvg.in/api?id=cavdarfurkan&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
