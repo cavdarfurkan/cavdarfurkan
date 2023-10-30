@@ -5,6 +5,7 @@
 I am developing full-stack apps for web and mobile.
 
 - 🔭 I’m currently working on [employee-management-system](https://employee-system-vlldc.ondigitalocean.app/)
+- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
 
 ## 💻 Tech Stack
 
@@ -17,9 +18,6 @@ I am developing full-stack apps for web and mobile.
 ## 🌐 Socials
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/furkancavdar)
-
----
-[![](https://visitcount.itsvg.in/api?id=cavdarfurkan&color=12&icon=0&pretty=true)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!--
