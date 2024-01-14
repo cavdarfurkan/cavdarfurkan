@@ -4,8 +4,7 @@
 
 I am developing full-stack apps for web and mobile.
 
-- 🔭 I’m currently working on [employee-management-system](https://employee-system-vlldc.ondigitalocean.app/)
-- 🌱 I’m currently learning [Next.js](https://nextjs.org/)
+- 🌱 I’m currently learning [Laravel](https://laravel.com/)
 
 ## 💻 Tech Stack
 
